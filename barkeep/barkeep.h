@@ -32,7 +32,7 @@
 #include <variant>
 #include <vector>
 
-#define BARKEEP_VERSION "0.1.4"
+#define BARKEEP_VERSION "0.1.5"
 
 #if defined(BARKEEP_ENABLE_FMT_FORMAT)
 #include <fmt/format.h>
